@@ -3,3 +3,5 @@ my DevOps portfolio
 
 [About ME] (about.md)
 
+## Projects
+-Git Basics
