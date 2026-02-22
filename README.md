@@ -3,3 +3,6 @@ my DevOps portfolio
 
 [About ME] (about.md)
 
+## Projects
+
+1. DevOps Lab 1
